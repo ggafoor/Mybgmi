@@ -1,2 +1,0 @@
-# Mybgmi
-My files uploadedmt
